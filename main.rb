@@ -1,6 +1,6 @@
 require "./treeFactory"
 
-tree_type = ARGV[0] || 'array'
+tree_type = ARGV[0] || 'list'
 
 puts "Creating the post office queue"
 
